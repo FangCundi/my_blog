@@ -1,0 +1,3 @@
+pla.py实现了PLA算法
+pocket.py实现了pocket算法
+pla_plus.py尝试优化PLA算法，未能实现，思路为每轮选取最优分配的Wt+1
